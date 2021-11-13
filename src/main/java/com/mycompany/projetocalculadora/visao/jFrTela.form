@@ -69,6 +69,9 @@
       <SubComponents>
         <Component class="javax.swing.JButton" name="btAC">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Dialog" size="18" style="0"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="AC"/>
           </Properties>
           <Events>
@@ -77,6 +80,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="btMaisBarraMenos">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Dialog" size="18" style="0"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="&lt;="/>
           </Properties>
           <Events>
@@ -85,6 +91,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="btPorcentagem">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Dialog" size="18" style="0"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="%"/>
           </Properties>
           <Events>
@@ -93,6 +102,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="btDivisao">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Dialog" size="18" style="0"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="/"/>
           </Properties>
           <Events>
@@ -125,6 +137,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="btMultiplicacao">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Dialog" size="18" style="0"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="*"/>
           </Properties>
           <Events>
@@ -157,6 +172,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="btSubtracao">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Dialog" size="18" style="0"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="-"/>
           </Properties>
           <Events>
@@ -189,6 +207,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="btAdicao">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Dialog" size="18" style="0"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="+"/>
           </Properties>
           <Events>
@@ -205,6 +226,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="btVirgula">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Dialog" size="18" style="0"/>
+            </Property>
             <Property name="text" type="java.lang.String" value=","/>
           </Properties>
           <Events>
@@ -221,6 +245,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="btIgual">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Dialog" size="18" style="0"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="="/>
           </Properties>
           <Events>

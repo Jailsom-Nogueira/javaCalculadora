@@ -77,6 +77,7 @@ public class jFrTela extends javax.swing.JFrame {
 
         jPanel1.setLayout(new java.awt.GridLayout(5, 4));
 
+        btAC.setFont(new java.awt.Font("Dialog", 0, 18)); // NOI18N
         btAC.setText("AC");
         btAC.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -85,6 +86,7 @@ public class jFrTela extends javax.swing.JFrame {
         });
         jPanel1.add(btAC);
 
+        btMaisBarraMenos.setFont(new java.awt.Font("Dialog", 0, 18)); // NOI18N
         btMaisBarraMenos.setText("<=");
         btMaisBarraMenos.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -93,6 +95,7 @@ public class jFrTela extends javax.swing.JFrame {
         });
         jPanel1.add(btMaisBarraMenos);
 
+        btPorcentagem.setFont(new java.awt.Font("Dialog", 0, 18)); // NOI18N
         btPorcentagem.setText("%");
         btPorcentagem.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -101,6 +104,7 @@ public class jFrTela extends javax.swing.JFrame {
         });
         jPanel1.add(btPorcentagem);
 
+        btDivisao.setFont(new java.awt.Font("Dialog", 0, 18)); // NOI18N
         btDivisao.setText("/");
         btDivisao.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -133,6 +137,7 @@ public class jFrTela extends javax.swing.JFrame {
         });
         jPanel1.add(btNove);
 
+        btMultiplicacao.setFont(new java.awt.Font("Dialog", 0, 18)); // NOI18N
         btMultiplicacao.setText("*");
         btMultiplicacao.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -165,6 +170,7 @@ public class jFrTela extends javax.swing.JFrame {
         });
         jPanel1.add(btSeis);
 
+        btSubtracao.setFont(new java.awt.Font("Dialog", 0, 18)); // NOI18N
         btSubtracao.setText("-");
         btSubtracao.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -197,6 +203,7 @@ public class jFrTela extends javax.swing.JFrame {
         });
         jPanel1.add(btTres);
 
+        btAdicao.setFont(new java.awt.Font("Dialog", 0, 18)); // NOI18N
         btAdicao.setText("+");
         btAdicao.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -213,6 +220,7 @@ public class jFrTela extends javax.swing.JFrame {
         });
         jPanel1.add(btZero);
 
+        btVirgula.setFont(new java.awt.Font("Dialog", 0, 18)); // NOI18N
         btVirgula.setText(",");
         btVirgula.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -229,6 +237,7 @@ public class jFrTela extends javax.swing.JFrame {
         });
         jPanel1.add(btFechar);
 
+        btIgual.setFont(new java.awt.Font("Dialog", 0, 18)); // NOI18N
         btIgual.setText("=");
         btIgual.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
